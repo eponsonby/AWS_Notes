@@ -68,15 +68,3 @@ AWS's global infrastructure can be broken down into 3 topics
 
 ## Security Groups
 - Security groups act as built-in firewalls for your virtual servers
-
-# Integrated Services
-## Application Load Balancer
-- 
-## Auto Scaling
-## Amazon Route 53
-## Amazon Relational Database Services (RDS)
-## AWS Lambda
-## AWS Elastic Beanstalk
-## Amazon Simple Notification Service (SNS)
-## Amazon CloudWatch
-
